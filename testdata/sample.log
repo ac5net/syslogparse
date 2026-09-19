@@ -1,0 +1,8 @@
+<34>Oct 11 22:14:15 host01 su: 'su root' failed for user1 on /dev/pts/8
+<13>Aug  7 09:03:11 host02 sshd[4123]: Accepted publickey for deploy from 192.0.2.10 port 51514 ssh2
+<13>Aug 17 09:03:11 host02 sshd[4124]: Accepted publickey for deploy from 192.0.2.11 port 51515 ssh2
+<165>1 2026-08-24T05:14:15.003Z host03.example.jp evntslog - ID47 [exampleSDID@32473 iut="3" eventSource="Application" eventID="1011"] An application event log entry
+<165>1 2026-08-24T05:14:16.000Z host03.example.jp evntslog - ID48 - Message without structured data
+<0>1 2026-08-24T05:14:17.000Z host03.example.jp kernel - - - Emergency level test
+<38>Sep  1 00:00:01 host04 cron[900]: (root) CMD (/usr/bin/rotate-logs)
+not a syslog line at all
